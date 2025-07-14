@@ -304,7 +304,7 @@ export const SubscriptionPlans: React.FC = () => {
                     : 'bg-gray-900 text-white hover:bg-gray-800'
                 }`}
               >
-                Get Started
+                Contact Sales
               </button>
             </div>
           </div>
@@ -323,7 +323,7 @@ export const SubscriptionPlans: React.FC = () => {
               </div>
               <p className="text-gray-600 mb-4">{addon.description}</p>
               <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors">
-                Add to Plan
+                Contact Sales
               </button>
             </div>
           ))}

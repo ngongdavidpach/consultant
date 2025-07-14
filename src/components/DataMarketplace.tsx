@@ -334,7 +334,7 @@ export const DataMarketplace: React.FC = () => {
                   <div className="text-sm text-gray-600 mb-3">{dataset.license}</div>
                   <div className="flex flex-col space-y-2">
                     <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors text-sm">
-                      Purchase License
+                      Request License
                     </button>
                     <button className="border border-gray-300 text-gray-700 px-4 py-2 rounded-md hover:bg-gray-50 transition-colors text-sm">
                       Preview Data
